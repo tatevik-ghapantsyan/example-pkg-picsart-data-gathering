@@ -1,2 +1,3 @@
 # example-pkg-picsart-data-gathering
-example-pkg
+example-pkg.
+This is made for learning puropses
